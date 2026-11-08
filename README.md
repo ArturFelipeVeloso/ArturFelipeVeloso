@@ -96,16 +96,6 @@ Most of my work is private: client, government or live products. This is a sampl
 
 <br/>
 
-## Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturFelipeVeloso&theme=github-compact&hide_border=true&area=true&color=2563eb&line=2563eb&point=0f172a" alt="gráfico de contribuições" width="100%" />
-
-</div>
-
-<br/>
-
 ## Contato
 
 Aberto a palestras, parcerias, projetos de IA e mentoria.
